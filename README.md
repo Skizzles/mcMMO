@@ -7,6 +7,7 @@ I'm working on a brand new website for mcMMO
 You can check it out here http://www.mcmmo.org
 
 Spigot Resource: https://spigot.mcmmo.org
+
 Polymart Resource: https://polymart.org/resource/mcmmo.727
 
 I plan to post links to our new wiki (its still under development), downloads, and dev blogs there.
@@ -14,6 +15,7 @@ I plan to post links to our new wiki (its still under development), downloads, a
 ### Builds
 Currently, you can obtain our builds via:
 Spigot resource page: http://spigot.mcmmo.org
+
 Polymart resource page: https://polymart.org/resource/mcmmo.727
 
 ### Brief Description
@@ -62,5 +64,6 @@ https://spigot.mcmmo.org or https://polymart.org/resource/mcmmo.727 for more up 
 
 Resource Page
 
-https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/ 
+https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
+
 https://polymart.org/resource/mcmmo.727
