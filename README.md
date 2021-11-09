@@ -12,7 +12,9 @@ Polymart Resource: https://polymart.org/resource/mcmmo.727
 I plan to post links to our new wiki (its still under development), downloads, and dev blogs there.
 
 ### Builds
-Currently, you can obtain our builds via the Spigot resource page: http://spigot.mcmmo.org or Polymart resource page: https://polymart.org/resource/mcmmo.727
+Currently, you can obtain our builds via:
+Spigot resource page: http://spigot.mcmmo.org
+Polymart resource page: https://polymart.org/resource/mcmmo.727
 
 ### Brief Description
 The goal of mcMMO is to take core Minecraft game mechanics and expand them into an extensive and quality RPG experience. Everything in mcMMO has been carefully thought out and is constantly being improved upon. Currently, mcMMO adds fourteen unique skills to train and level in. Each of these skills is highly customizable through our configuration files, allowing server admins to tweak mcMMO to best suit the needs of his or her server. Know that the mcMMO team is dedicated to providing an ever-evolving experience, and that we carefully read all feedback and bug reports in order to evaluate and balance the mechanics of mcMMO in every update.
